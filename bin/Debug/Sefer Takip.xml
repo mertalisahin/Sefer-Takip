@@ -1,0 +1,276 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+SeferTakip
+</name>
+</assembly>
+<members>
+<member name="T:Sefer_Takip.sefertakipDataSet.ARACLARDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet.DOKUMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet.SANTIYELERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet.SEFERLERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet.SOFORLERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet.ARACLARRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet.DOKUMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet.SANTIYELERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet.SEFERLERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet.SOFORLERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet.ARACLARRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet.DOKUMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet.SANTIYELERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet.SEFERLERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet.SOFORLERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSetTableAdapters.ARACLARTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSetTableAdapters.DOKUMTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSetTableAdapters.SANTIYELERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSetTableAdapters.SEFERLERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSetTableAdapters.SOFORLERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Sefer_Takip.sefertakipDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(Sefer_Takip.sefertakipDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Sefer_Takip.sefertakipDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(Sefer_Takip.sefertakipDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Sefer_Takip.sefertakipDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(Sefer_Takip.sefertakipDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Sefer_Takip.sefertakipDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Sefer_Takip.sefertakipDataSetTableAdapters.TableAdapterManager.UpdateAll(Sefer_Takip.sefertakipDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:Sefer_Takip.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Sefer_Takip.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:Sefer_Takip.My.Resources.Resources.Untitled_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:Sefer_Takip.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.ARACLARDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.DOKUMDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.SANTIYELERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.SEFERLERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.SOFORLERDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.Tablo1DataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.ARACLARRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.DOKUMRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.SANTIYELERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.SEFERLERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.SOFORLERRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.Tablo1Row">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.ARACLARRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.DOKUMRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.SANTIYELERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.SEFERLERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.SOFORLERRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1.Tablo1RowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1TableAdapters.ARACLARTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1TableAdapters.DOKUMTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1TableAdapters.SANTIYELERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1TableAdapters.SEFERLERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1TableAdapters.SOFORLERTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1TableAdapters.Tablo1TableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:Sefer_Takip.sefertakipDataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(Sefer_Takip.sefertakipDataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:Sefer_Takip.sefertakipDataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(Sefer_Takip.sefertakipDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:Sefer_Takip.sefertakipDataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(Sefer_Takip.sefertakipDataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:Sefer_Takip.sefertakipDataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:Sefer_Takip.sefertakipDataSet1TableAdapters.TableAdapterManager.UpdateAll(Sefer_Takip.sefertakipDataSet1)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:Sefer_Takip.sefertakipDataSet1TableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>

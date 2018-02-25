@@ -1,0 +1,43 @@
+C:\Users\mail\AppData\Local\Temporary Projects\Sefer Takip\bin\Debug\Sefer Takip.exe.config
+C:\Users\mail\AppData\Local\Temporary Projects\Sefer Takip\bin\Debug\Sefer Takip.exe
+C:\Users\mail\AppData\Local\Temporary Projects\Sefer Takip\bin\Debug\Sefer Takip.pdb
+C:\Users\mail\AppData\Local\Temporary Projects\Sefer Takip\bin\Debug\Sefer Takip.xml
+C:\Users\mail\AppData\Local\Temporary Projects\Sefer Takip\obj\Debug\Sefer_Takip.Form1.resources
+C:\Users\mail\AppData\Local\Temporary Projects\Sefer Takip\obj\Debug\Sefer_Takip.Resources.resources
+C:\Users\mail\AppData\Local\Temporary Projects\Sefer Takip\obj\Debug\Sefer Takip.vbproj.GenerateResource.Cache
+C:\Users\mail\AppData\Local\Temporary Projects\Sefer Takip\obj\Debug\Sefer Takip.exe
+C:\Users\mail\AppData\Local\Temporary Projects\Sefer Takip\obj\Debug\Sefer Takip.xml
+C:\Users\mail\AppData\Local\Temporary Projects\Sefer Takip\obj\Debug\Sefer Takip.pdb
+C:\sefffer\Sefer Takip\Sefer Takip\bin\Debug\Sefer Takip.exe.config
+C:\sefffer\Sefer Takip\Sefer Takip\obj\Debug\Sefer Takip.exe
+C:\sefffer\Sefer Takip\Sefer Takip\obj\Debug\Sefer Takip.xml
+C:\sefffer\Sefer Takip\Sefer Takip\obj\Debug\Sefer Takip.pdb
+C:\sefffer\Sefer Takip\Sefer Takip\bin\Debug\Sefer Takip.exe
+C:\sefffer\Sefer Takip\Sefer Takip\bin\Debug\Sefer Takip.pdb
+C:\sefffer\Sefer Takip\Sefer Takip\bin\Debug\Sefer Takip.xml
+C:\sefffer\Sefer Takip\Sefer Takip\obj\Debug\Sefer_Takip.Resources.resources
+C:\sefffer\Sefer Takip\Sefer Takip\obj\Debug\Sefer Takip.vbproj.GenerateResource.Cache
+C:\sefffer\Sefer Takip\Sefer Takip\obj\Debug\Sefer Takip.vbprojResolveAssemblyReference.cache
+C:\sefffer\Sefer Takip\Sefer Takip\obj\Debug\Sefer_Takip.SeferTakip.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\bin\Debug\Sefer Takip.exe.config
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer Takip.exe
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer Takip.xml
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer Takip.pdb
+C:\Sefer Takip\Sefer Takip\Sefer Takip\bin\Debug\Sefer Takip.exe
+C:\Sefer Takip\Sefer Takip\Sefer Takip\bin\Debug\Sefer Takip.pdb
+C:\Sefer Takip\Sefer Takip\Sefer Takip\bin\Debug\Sefer Takip.xml
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer Takip.vbprojResolveAssemblyReference.cache
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer_Takip.SeferTakip.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer_Takip.Resources.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer Takip.vbproj.GenerateResource.Cache
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer_Takip.crystalform.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer_Takip.AnaMenu.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer_Takip.old.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer_Takip.Araclar.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer_Takip.Soforler.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer_Takip.Dokum.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer_Takip.Santiye.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer_Takip.ozetseferraporu.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer_Takip.sefertakipcrystal.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer_Takip.ozetseferraporusantiye.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Debug\Sefer_Takip.ozetseferraporudokum.resources

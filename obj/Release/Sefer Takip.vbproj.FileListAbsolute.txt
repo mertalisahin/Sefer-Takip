@@ -1,0 +1,31 @@
+C:\Sefer Takip\Sefer Takip\Sefer Takip\bin\Release\Sefer Takip.exe.config
+C:\Sefer Takip\Sefer Takip\Sefer Takip\bin\Release\Sefer Takip.exe
+C:\Sefer Takip\Sefer Takip\Sefer Takip\bin\Release\Sefer Takip.pdb
+C:\Sefer Takip\Sefer Takip\Sefer Takip\bin\Release\Sefer Takip.xml
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer Takip.vbprojResolveAssemblyReference.cache
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.Araclar.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.crystalform.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.ozetseferraporusantiye.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.ozetseferraporudokum.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.ozetseferraporu.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.sefertakipcrystal.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.Dokum.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.Santiye.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.Soforler.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.AnaMenu.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.SeferTakip.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.Resources.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer Takip.vbproj.GenerateResource.Cache
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer Takip.exe
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer Takip.xml
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer Takip.pdb
+C:\Sefer Takip\Sefer Takip\Sefer Takip\bin\Release\Sefer Takip.exe.manifest
+C:\Sefer Takip\Sefer Takip\Sefer Takip\bin\Release\Sefer Takip.application
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer Takip.exe.manifest
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer Takip.application
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.ozetseferraporusofor.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.ozetseferraporutoplam.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.usercontrol.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.ozetseferraporuucretli.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.genelprimraporu.resources
+C:\Sefer Takip\Sefer Takip\Sefer Takip\obj\Release\Sefer_Takip.mazottakip.resources
